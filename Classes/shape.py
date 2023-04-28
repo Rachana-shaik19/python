@@ -12,3 +12,5 @@ class Shape(ABC):
     @abstractmethod
     def draw(self):
         pass
+    def sum(self):
+        pass
