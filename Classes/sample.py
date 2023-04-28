@@ -14,6 +14,8 @@ def sum():
 
 def mul():
     return 10*10
+def sub():
+    return 10-10
 
 class Sample:
     name = "riya"
